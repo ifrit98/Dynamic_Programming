@@ -49,7 +49,6 @@ class Graph:
         # print all distance
         self.printArr(dist)
 
-
 g = Graph(5)
 g.addEdge(0, 1, -1)
 g.addEdge(0, 2, 4)

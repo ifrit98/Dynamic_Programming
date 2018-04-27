@@ -95,8 +95,7 @@ def printParagraph(S, M):
         i = j
 
     print(paragraph)
-
-#S = ['This','the','fuck','is','going','on','here','in']
+    
 S = "Ah how shameless – the way these mortals blame the gods. From us alone they say come " \
     "all their miseries yes but they themselves with their own reckless ways compound their pains " \
     "beyond their proper share"
